@@ -1,2 +1,2 @@
 # Token_Classification
-Token classification on small dataset
+Token Classification task with small dataset
